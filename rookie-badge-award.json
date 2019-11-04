@@ -1,0 +1,14 @@
+{
+  "uid": "a1b2c3d4e5",
+  "recipient": {
+    "type": "email",
+    "identity": "you@yourdomain.com",
+    "hashed": false
+  },
+  "issuedOn":  1572885779,
+  "badge": "https://pages.github.ncsu.edu/tculler/badgetutorial/rookie-badge-class.json",
+  "verify": {
+    "type": "hosted",
+    "url": "https://pages.github.ncsu.edu/tculler/badgetutorial/rookie-badge-award.json"
+  }
+}
