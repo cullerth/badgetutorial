@@ -6,9 +6,9 @@
     "hashed": false
   },
   "issuedOn":  1572885779,
-  "badge": "https://pages.github.ncsu.edu/tculler/badgetutorial/rookie-badge-class.json",
+  "badge": "https://cullerth.github.io/badgetutorial/rookie-badge-class.json",
   "verify": {
     "type": "hosted",
-    "url": "https://pages.github.ncsu.edu/tculler/badgetutorial/rookie-badge-award.json"
+    "url": "https://cullerth.github.io/tculler/badgetutorial/rookie-badge-award.json"
   }
 }
